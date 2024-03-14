@@ -1,6 +1,6 @@
 {
   "name": "onedionys-input-autocomplete",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Input Autocomplete) - Functions to provide recommendations or auto-complete user input in forms.",
   "main": "src/autocomplete.js",
   "directories": {
